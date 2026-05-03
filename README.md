@@ -657,6 +657,9 @@ Terminal 2
 
 ### Input dan Output
 ![alt text](image-2.png)
+
 ![alt text](image-3.png)
+
 ![alt text](<Screenshot 2026-05-03 184353.png>)
+
 ![alt text](<Screenshot 2026-05-03 184444.png>)
